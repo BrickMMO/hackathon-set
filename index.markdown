@@ -14,6 +14,8 @@ You will not be building and coding the interactive component. This is only a br
 
 In the past students have designed the following:
 
+- [12 Grimmauld Place](12-grimmauld-place.markdown)
+
 ### Loop Coaster
 
 The [Loop Coaster](https://www.lego.com/en-ca/product/loop-coaster-10303) that will run the ride on command or at a timed interval:
@@ -60,8 +62,6 @@ To complete this task, follow these steps:
 ## Submitting this Task
 
 Once your instructor has merged your pull request, submit a link to your PDF to the **Set Hackathon** assignment in [Blackboard](https://learn.humber.ca/).
-
-[&#10132; Back to Task List](/)
 
 ---
 
