@@ -2,21 +2,21 @@
 
 <style>@import url("//readme.codeadam.ca/readme.css");</style>
 
-For this task you will be working in groups. Your groups have been set randomly in [Blackboard](https://learn.humber.ca).
-
 The [BrickMMO](http://brickmmo.com/) smart city built with LEGO® bricks has many official LEGO kits integrated into the city.
 
 ![BrickMMO City](images/brickmmo.png)
 
-As the city grows we will integrate more and more sets into the smart city. We would like to integrate a varity of interactive components. In this task you will choose an official LEGO set and design an interactive component.
+As the city grows we will integrate more and more sets into the smart city. We would like to integrate a varity of interactive components into these kits. In this task you will choose an official LEGO set and design an interactive component.
 
-You will not be building and coding the interactive component. This is only a brainstorming session. Your concept may be completed by another groups of students in the future.
+You will not be building and coding the interactive component. This is only a brainstorming session. Your concept may be completed by another group of students in the future.
+
+## Examples
 
 In the past students have designed the following:
 
 ### Loop Coaster
 
-The [Loop Coaster](https://www.lego.com/en-ca/product/loop-coaster-10303) that will run the ride on command:
+The [Loop Coaster](https://www.lego.com/en-ca/product/loop-coaster-10303) that will run the ride on command or at a timed interval:
 
 ![LEGO Loop Coaster](images/lego-coaster.png)
 
@@ -34,18 +34,28 @@ The [Infinity Gauntlet](https://www.lego.com/en-ca/product/nano-gauntlet-76223) 
 
 To complete this task, follow these steps:
 
-1. Browse the official [LEGO Store]() and choose a set.
+1. Browse the official [LEGO Store](https://www.lego.com/en-ca/themes) and choose a set.
 
-   > You can also se an alternative build:  
+   > You could also choose an alternative build:  
    > [https://rebrickable.com/sets/alternates/](https://rebrickable.com/sets/alternates/)
 
 2. Brainstorm how this set can be adjsuted to become interactive.
 3. Brainstorm which sensors, motors, and lights will be required to integrate the concept.
-4. Document this interactive concept using the Google Docs template.
-5. Add your document to the [hackathon](https://github.com/BrickMMO/hackathon-set.git) repo. You will need to fork the repo, add your changes, and submit a pull request.
 
-> There are more instructions in the hackathon repo:  
-> [hackathon](https://github.com/BrickMMO/hackathon-set.git)
+   > Checkout a list of available sensors and motors  
+   > https://brickmmo.github.io/media/
+
+4. Document this interactive concept using the Google Docs template.
+
+   > You can download a copy of this tempate  
+   > [https://docs.google.com/presentation/d/1gknSInaIIco2ORqP4cA35TlsDo5pSZ863Nm8OcLPfaI](https://docs.google.com/presentation/d/1gknSInaIIco2ORqP4cA35TlsDo5pSZ863Nm8OcLPfaI)
+
+5. Add your document to the [hackathonset](https://github.com/BrickMMO/hackathon-set.git) repo.
+
+   You will need to fork the repo, add your changes, and submit a pull request.
+
+> There are additional instrucitons available  
+> [https://docs.google.com/presentation/d/1WuzV2EYVZtyCNLB8IXAAnArWCqiddQ56KWc52wX0XHU](https://docs.google.com/presentation/d/1WuzV2EYVZtyCNLB8IXAAnArWCqiddQ56KWc52wX0XHU)
 
 ## Submitting this Task
 
@@ -58,15 +68,3 @@ Once your instructor has merged your pull request, submit a link to your PDF to 
 <a href="https://brickmmo.com">
 <img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
 </a>
-
-
-
-The set hackathon is to pick a LEGO® set and design a plan to integtrate the set into the BrickMMO Smart City.  
-
-Here are details instructions on the hackathon goals:
-
-https://docs.google.com/presentation/d/1WuzV2EYVZtyCNLB8IXAAnArWCqiddQ56KWc52wX0XHU/edit?usp=share_link
-
-Use this Google slide deck as a template for presenting your set proposal:
-
-https://docs.google.com/presentation/d/1gknSInaIIco2ORqP4cA35TlsDo5pSZ863Nm8OcLPfaI
