@@ -45,7 +45,7 @@ To complete this task, follow these steps:
 3. Brainstorm which sensors, motors, and lights will be required to integrate the concept.
 
    > Checkout a list of available sensors and motors  
-   > https://brickmmo.github.io/media/
+   > [https://brickmmo.github.io/media/sensors-motors](https://brickmmo.github.io/media/sensors-motors)
 
 4. Document this interactive concept using the Google Docs template.
 
