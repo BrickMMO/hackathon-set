@@ -47,12 +47,14 @@ To complete this task, follow these steps:
    > Checkout a list of available sensors and motors  
    > [https://brickmmo.github.io/media/sensors-motors](https://brickmmo.github.io/media/sensors-motors)
 
-4. Document this interactive concept using the Google Docs template.
+4. Write the [pseudocode](https://pseudocode.codeadam.ca) for your interaction.
+
+5. Document this interactive concept using the Google Docs template.
 
    > You can download a copy of this tempate  
    > [https://docs.google.com/presentation/d/1gknSInaIIco2ORqP4cA35TlsDo5pSZ863Nm8OcLPfaI](https://docs.google.com/presentation/d/1gknSInaIIco2ORqP4cA35TlsDo5pSZ863Nm8OcLPfaI)
 
-5. Add your document to the [hackathonset](https://github.com/BrickMMO/hackathon-set.git) repo.
+6. Add your document to the [hackathon-set](https://github.com/BrickMMO/hackathon-set.git) repo. You can add your PDF document to the `results` folder.
 
    You will need to fork the repo, add your changes, and submit a pull request.
 
