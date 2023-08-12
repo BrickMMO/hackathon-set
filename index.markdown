@@ -20,7 +20,7 @@ The [Loop Coaster](https://www.lego.com/en-ca/product/loop-coaster-10303) that w
 
 ![LEGO Loop Coaster](images/lego-coaster.png)
 
-> LEGO (n.d.). LEGO Loop Coaster. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/nano-gauntlet-76223](https://www.lego.com/en-ca/product/nano-gauntlet-76223)
+> <small>LEGO (n.d.). LEGO Loop Coaster. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/nano-gauntlet-76223](https://www.lego.com/en-ca/product/nano-gauntlet-76223)</small>
 
 ### Infinity Gauntlet
 
@@ -28,7 +28,7 @@ The [Infinity Gauntlet](https://www.lego.com/en-ca/product/nano-gauntlet-76223) 
 
 ![LEGO Loop Coaster](images/lego-infinity.png)
 
-> LEGO (n.d.). LEGO Infinity Gauntlet. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/nano-gauntlet-76223](https://www.lego.com/en-ca/product/nano-gauntlet-76223)
+> <small>LEGO (n.d.). LEGO Infinity Gauntlet. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/nano-gauntlet-76223](https://www.lego.com/en-ca/product/nano-gauntlet-76223)</small>
 
 ### Documentation
 
