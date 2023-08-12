@@ -12,9 +12,7 @@ You will not be building and coding the interactive component. This is only a br
 
 ## Examples
 
-In the past students have designed the following:
-
-- [12 Grimmauld Place](12-grimmauld-place.markdown)
+Here are a few examples from past cohorts:
 
 ### Loop Coaster
 
@@ -31,6 +29,12 @@ The [Infinity Gauntlet](https://www.lego.com/en-ca/product/nano-gauntlet-76223) 
 ![LEGO Loop Coaster](images/lego-infinity.png)
 
 > LEGO (n.d.). LEGO Infinity Gauntlet. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/nano-gauntlet-76223](https://www.lego.com/en-ca/product/nano-gauntlet-76223)
+
+### Documentation
+
+Each year we convert past hackathon PDFs to Markdon in the hopes that they will be programmed into the BrickMMO Smart City:
+
+- [12 Grimmauld Place](12-grimmauld-place)
 
 ## Steps
 

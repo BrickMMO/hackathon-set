@@ -10,7 +10,7 @@ The official [12 Girmmauld Place](https://www.lego.com/en-ca/product/12-grimmaul
 
 ![12 Grimmauld Place](images/lego-grimmauld-interactive.png)
 
-> LEGO (n.d.). LEGO 12 Grimmauld Place. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/12-grimmauld-place-7640](https://www.lego.com/en-ca/product/12-grimmauld-place-7640)
+> <smalll>LEGO (n.d.). LEGO 12 Grimmauld Place. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/12-grimmauld-place-7640](https://www.lego.com/en-ca/product/12-grimmauld-place-7640)</small>
 
 This motion will be connected to a motor so the interaction can be automated.
 
