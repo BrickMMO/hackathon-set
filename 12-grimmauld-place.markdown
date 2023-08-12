@@ -20,8 +20,8 @@ This interaction will have an interesting effect on the GPS and mapping tools. U
 
 This interaction will only require a large EV3 motor and the EV3 hub:
 
-<img src="/media/ev3/servo-motor.png" height="300">
-<img src="/media/ev3/brick.jpg" height="300">
+<img src="/media/ev3/servo-motor.png" height="200">
+<img src="/media/ev3/brick.jpg" height="200">
 
 ## Pseudocode
 
