@@ -2,11 +2,15 @@
 
 ![12 Grimmauld Place](images/lego-grimmauld.png)
 
+> LEGO (n.d.). LEGO 12 Grimmauld Place. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/12-grimmauld-place-7640](https://www.lego.com/en-ca/product/12-grimmauld-place-7640)
+
 ### Description
 
 The official [12 Girmmauld Place](https://www.lego.com/en-ca/product/12-grimmauld-place-76408) LEGO® set has a built in intaractive feature. When the back of the bulding is push torwards the front, the two front buildings slide open up to reveal a third.
 
 ![12 Grimmauld Place](images/lego-grimmauld-interactive.png)
+
+> LEGO (n.d.). LEGO 12 Grimmauld Place. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/12-grimmauld-place-7640](https://www.lego.com/en-ca/product/12-grimmauld-place-7640)
 
 This motion will be connected to a motor so the interaction can be automated.
 
