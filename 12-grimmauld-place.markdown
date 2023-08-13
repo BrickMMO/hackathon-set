@@ -79,7 +79,7 @@ ON RequestGsLocation EVENT
 ENDEVENT
 ```
 
-[&#10132; Back to Hackathon](/)
+[&#10132; Back to Hackathon](/hackathon-set/)
 
 ---
 
