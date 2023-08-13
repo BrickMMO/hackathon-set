@@ -58,7 +58,7 @@ To complete this task, follow these steps:
    > You can download a copy of this tempate  
    > [https://docs.google.com/presentation/d/1gknSInaIIco2ORqP4cA35TlsDo5pSZ863Nm8OcLPfaI](https://docs.google.com/presentation/d/1gknSInaIIco2ORqP4cA35TlsDo5pSZ863Nm8OcLPfaI)
 
-6. Add your document to the [hackathon-set](https://github.com/BrickMMO/hackathon-set.git) repo. You can add your PDF document to the `results` folder.
+6. Add your document to the [hackathon-set](https://github.com/BrickMMO/hackathon-set/) repo. You can add your PDF document to the `results` folder.
 
    You will need to fork the repo, add your changes, and submit a pull request.
 
