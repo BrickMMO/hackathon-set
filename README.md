@@ -1,4 +1,4 @@
-# Tasks
+# Set Hackathon
 
 Instructions for the [BrickMMO Set Hackathon](https://brickmmo.github.io/hackathon-set/).
 
