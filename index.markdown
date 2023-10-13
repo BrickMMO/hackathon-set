@@ -6,7 +6,7 @@ The [BrickMMO](http://brickmmo.com/) smart city built with LEGO® bricks has man
 
 ![BrickMMO City](images/brickmmo.png)
 
-As the city grows we will integrate more and more sets into the smart city. We would like to integrate a varity of interactive components into these kits. In this task you will choose an official LEGO set and design an interactive component.
+As the city grows we will integrate more and more sets into the smart city. We would like to integrate a variety of interactive components into these kits. In this task you will choose an official LEGO set and design an interactive component.
 
 You will not be building and coding the interactive component. This is only a brainstorming session. Your concept may be completed by another group of students in the future.
 
@@ -45,7 +45,7 @@ To complete this task, follow these steps:
    > You could also choose an alternative build:  
    > [https://rebrickable.com/sets/alternates/](https://rebrickable.com/sets/alternates/)
 
-2. Brainstorm how this set can be adjsuted to become interactive.
+2. Brainstorm how this set can be adjusted to become interactive.
 3. Brainstorm which sensors, motors, and lights will be required to integrate the concept.
 
    > Checkout a list of available sensors and motors  
@@ -55,14 +55,14 @@ To complete this task, follow these steps:
 
 5. Document this interactive concept using the Google Docs template.
 
-   > You can download a copy of this tempate  
+   > You can download a copy of this template  
    > [https://docs.google.com/presentation/d/1gknSInaIIco2ORqP4cA35TlsDo5pSZ863Nm8OcLPfaI](https://docs.google.com/presentation/d/1gknSInaIIco2ORqP4cA35TlsDo5pSZ863Nm8OcLPfaI)
 
 6. Add your document to the [hackathon-set](https://github.com/BrickMMO/hackathon-set/) repo. You can add your PDF document to the `results` folder.
 
    You will need to fork the repo, add your changes, and submit a pull request.
 
-> There are additional instrucitons available  
+> There are additional instructions available  
 > [https://docs.google.com/presentation/d/1WuzV2EYVZtyCNLB8IXAAnArWCqiddQ56KWc52wX0XHU](https://docs.google.com/presentation/d/1WuzV2EYVZtyCNLB8IXAAnArWCqiddQ56KWc52wX0XHU)
 
 ## Submitting this Task
