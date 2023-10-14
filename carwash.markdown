@@ -1,6 +1,6 @@
 ## Car Wash
 
-![Car Wash](images/Car-wash-lego.png)
+![Car Wash](images/car-wash-lego.png)
 
 > <small>The LEGO Group. (n.d.). Car Wash™. Retrieved 2022, from
 [https://www.lego.com/en-ca/product/car-wash-60362](https://www.lego.com/en-ca/product/car-wash-60362)</small>
@@ -12,10 +12,6 @@ LEGO® set includes a car and the car
 wash building with brushes that turn once a car
 is pushed through. 
 
-![Car Wash](images/lego-grimmauld-interactive.png)
-
-> <small>The LEGO Group. (n.d.). Car Wash™. Retrieved 2022, from
-[https://www.lego.com/en-ca/product/car-wash-60362](https://www.lego.com/en-ca/product/car-wash-60362)</small>
 
 This module will have a car that automatically drives through the car wash. Once a car enters
 the car wash, a light will turn red to signal that
@@ -70,7 +66,7 @@ Then car drives off
 
 
 
-[&#10132; Back to Hackathon](/hackathon-set/)
+[&#10132; Back to Hackathon](https://github.com/BrickMMO/hackathon-set/blob/main/index.markdown)
 
 ---
 
