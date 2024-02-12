@@ -7,7 +7,7 @@
 ### Description
 
 Tony Stark's [Infinity Gauntlet](https://www.lego.com/en-ca/product/nano-gauntlet-76223) from Avengers Endgame. We will add lights in the infinity stones and a motor in the base to make the whole hand spinning.
-![Infinity Gauntlet](images/Infinity-Gauntlet.webp)
+![Infinity Gauntlet](images/lego-infinity.png)
 
 > <smalll>LEGO (n.d.). LEGO Nano Gauntlet. Retrieved February 12 2024, from [https://www.lego.com/en-ca/product/nano-gauntlet-76223](https://https://www.lego.com/en-ca/product/nano-gauntlet-76223)</small>
 
