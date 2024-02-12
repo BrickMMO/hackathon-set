@@ -13,12 +13,6 @@ Tony Stark's [Infinity Gauntlet](https://www.lego.com/en-ca/product/nano-gauntle
 
 This interaction will only require a motor and lights.
 
-## Port Settings
-
-Rotating hand Stauts: Can be set "on" or "off". (Rotate back and forth constantly)
-
-Lights Status: Can be sent to "on" or "off". (The Infinity Stones will light up and turn off automatically)
-
 
 ### Requirements
 
@@ -28,6 +22,12 @@ The first output will be attached to an EV3 servo motor. The second port will be
 <img src="/power-functions/lights.jpeg" height="200">
 
 ## Pseudocode
+
+# Port Settings
+
+Rotating hand Stauts: Can be set "on" or "off". (Rotate back and forth constantly)
+
+Lights Status: Can be sent to "on" or "off". (The Infinity Stones will light up and turn off automatically)
 
 This would be the code for the Hand rotation that would be 2 rotations, that will be completed in 1 minute:
 
