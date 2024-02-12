@@ -17,7 +17,7 @@ This interaction will only require a motor and lights.
 
 The first output will be attached to an EV3 servo motor. The second port will be connected to EV3 Lights.
 
-<img src="/images/Sensor.png" height="200">
+<img src="/media/ev3/servo-motor.jpeg" height="200">
 <img src="/media/ev3/brick.jpg" height="200">
 
 ## Pseudocode
