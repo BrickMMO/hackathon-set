@@ -13,6 +13,13 @@ Tony Stark's [Infinity Gauntlet](https://www.lego.com/en-ca/product/nano-gauntle
 
 This interaction will only require a motor and lights.
 
+## Port Settings
+
+Rotating hand Stauts: Can be set "on" or "off". (Rotate back and forth constantly)
+
+Lights Status: Can be sent to "on" or "off". (The Infinity Stones will light up and turn off automatically)
+
+
 ### Requirements
 
 The first output will be attached to an EV3 servo motor. The second port will be connected to EV3 Lights.
@@ -22,58 +29,38 @@ The first output will be attached to an EV3 servo motor. The second port will be
 
 ## Pseudocode
 
-In this example, the location is only available when recently requested:
+This would be the code for the Hand rotation that would be 2 rotations, that will be completed in 1 minute:
 
 ```pseudocode
-REPEAT-EVERY 30 Seconds
+While True
 
-    IF LastGpsRequest < 30 Minutes THEN
+If status == "on"
 
-        LocationStatus = TRUE
-        RotateMotor to 0
+If counter == 0
+    Start motor slow clockwise
 
-    ELSE
+Else if counter == 30
+    Stop motor
 
-        LocationStatus = FALSE
-        RotatMotor to 360
+Else if counter == 35
+    Start motor slow counter-clockwise
 
-    ENDIF
-
-ENDREPEAT
+Else if counter == 60
+    Stop motor
 ```
 
-In this example, the building is only avialable between 11:00 am and 1:00 pm. A GPS request will return false when the building is not available:
+And for the lights in the Infinity Stones, this would go as follow:
 
 ```pseudocode
-REPEAT-EVERY 1 Hour
+While True
 
-    IF Hour > 11:00 AM AND Hour < 1:00 PM THEN
+If status == "on"
 
-        LocationStatus = TRUE
-        RotateMotor to 0
+If counter == 0
+    Turn on lights
 
-    ELSE
-
-        LocationStatus = FALSE
-        RotatMotor to 360
-
-    ENDIF
-
-ENDREPEAT
-
-ON RequestGsLocation EVENT
-
-    IF LocationStatus == TRUE THEN
-
-        RETURN GpsLocation
-
-    ELSE
-
-        RETURN FALSE
-
-    ENDIF
-
-ENDEVENT
+If counter == 100
+    Turn off lights
 ```
 
 [&#10132; Back to Hackathon](/hackathon-set/)
