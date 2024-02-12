@@ -23,12 +23,6 @@ The first output will be attached to an EV3 servo motor. The second port will be
 
 ## Pseudocode
 
-# Port Settings
-
-Rotating hand Stauts: Can be set "on" or "off". (Rotate back and forth constantly)
-
-Lights Status: Can be sent to "on" or "off". (The Infinity Stones will light up and turn off automatically)
-
 This would be the code for the Hand rotation that would be 2 rotations, that will be completed in 1 minute:
 
 ```pseudocode
@@ -62,6 +56,12 @@ If counter == 0
 If counter == 100
     Turn off lights
 ```
+
+## Port Settings
+
+Rotating hand Stauts: Can be set "on" or "off". (Rotate back and forth constantly)
+
+Lights Status: Can be sent to "on" or "off". (The Infinity Stones will light up and turn off automatically)
 
 [&#10132; Back to Hackathon](/hackathon-set/)
 
