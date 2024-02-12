@@ -1,6 +1,6 @@
 ## Infinity Gauntlet
 
-![12 Grimmauld Place](images/lego-infinity.png)
+![12 Grimmauld Place](images/Infinity-Gauntlet.png)
 
 > <small>LEGO (n.d.). LEGO 12 Grimmauld Place. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/12-grimmauld-place-7640](https://www.lego.com/en-ca/product/12-grimmauld-place-7640)</small>
 
