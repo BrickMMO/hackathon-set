@@ -16,7 +16,7 @@ The Ice-Cream Truck will drive around Lego City and stop for people who want to 
 
 The Ice-Cream Truck will require 4 outputs on an EV3 brain.
 
-![6 Ice Cream Truck](images/SensorsAndMotors.png)
+![6 Ice Cream Truck](images/SensorAndMotor.png)
 
 ## Pseudocode
 
