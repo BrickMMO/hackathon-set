@@ -1,6 +1,6 @@
 ## Infinity Gauntlet
 
-![Infinity Gauntlet](images/Infinity-Gauntlet-box.webp)
+<img src="images/Infinity-Gauntlet-box.webp" style="height= 200px; width"> 
 
 > <small>LEGO (n.d.). LEGO Nano Gauntlet. Retrieved February 12 2024, from [https://www.lego.com/en-ca/product/nano-gauntlet-76223](https://https://www.lego.com/en-ca/product/nano-gauntlet-76223)</small>
 
