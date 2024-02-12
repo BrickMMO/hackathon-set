@@ -1,24 +1,21 @@
 ## Infinity Gauntlet
 
-![Infinity Gauntlet](images/Infinity-Gauntlet-box.webp)
+<img src="images/Infinity-Gauntlet-box.webp" style="height: 500px;"> 
 
 > <small>LEGO (n.d.). LEGO Nano Gauntlet. Retrieved February 12 2024, from [https://www.lego.com/en-ca/product/nano-gauntlet-76223](https://https://www.lego.com/en-ca/product/nano-gauntlet-76223)</small>
 
 ### Description
 
-The official [Infinity Gauntlet](https://www.lego.com/en-ca/product/12-grimmauld-place-76408) LEGO® set has a built in intaractive feature. When the back of the bulding is push torwards the front, the two front buildings slide open up to reveal a third.
-
+Tony Stark's [Infinity Gauntlet](https://www.lego.com/en-ca/product/nano-gauntlet-76223) from Avengers Endgame. We will add lights in the infinity stones and a motor in the base to make the whole hand spinning.
 ![Infinity Gauntlet](images/Infinity-Gauntlet.webp)
 
-> <smalll>LEGO (n.d.). LEGO 12 Grimmauld Place. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/12-grimmauld-place-7640](https://www.lego.com/en-ca/product/12-grimmauld-place-7640)</small>
+> <smalll>LEGO (n.d.). LEGO Nano Gauntlet. Retrieved February 12 2024, from [https://www.lego.com/en-ca/product/nano-gauntlet-76223](https://https://www.lego.com/en-ca/product/nano-gauntlet-76223)</small>
 
-This motion will be connected to a motor so the interaction can be automated.
-
-This interaction will have an interesting effect on the GPS and mapping tools. UNlike most buildings, this building only exists at certain times. OR the building could be in hiding until the mapping system receives a request for this address.
+This interaction will only require a motor and lights.
 
 ### Requirements
 
-This interaction will only require a large EV3 motor and the EV3 hub:
+The first output will be attached to an EV3 servo motor. The second port will be connected to EV3 Lights.
 
 <img src="/images/Sensor.png" height="200">
 <img src="/media/ev3/brick.jpg" height="200">
