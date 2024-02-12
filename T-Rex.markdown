@@ -5,9 +5,9 @@ BY:
 
 ### Dinosaur Fossils: T.rex Skull
 <small>LEGO  (n.d.). JuRassic World Dinosaur Fossils: T. rex Skull(76964)</small>
-[images/Dinosaur-Fossils.webp]
-[images/Dinosaur-Fossils-2.webp]
-[images/Dinosaur-Fossils-3.webp]
+![DF](images/Dinosaur-Fossils.png)
+![DF2](images/Dinosaur-Fossils-2.png)
+![DF3](images/Dinosaur-Fossils-3.png)
 
 ### Module Description
 The T-Rex Skull Module can be placed 
@@ -20,5 +20,5 @@ detects the arrival of the cart and we can
 programme it to open its mouth as the cart 
 reached it.
 
-![Rolling Coaster](images/Rolling Coaster.png)
+![Rolling Coaster](images/Rolling-Coaster.png)
 
