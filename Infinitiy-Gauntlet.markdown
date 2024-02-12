@@ -1,14 +1,14 @@
 ## Infinity Gauntlet
 
-![12 Grimmauld Place](images/Infinity-Gauntlet.webp)
+![Infinity Gauntlet](images/Infinity-Gauntlet-box.webp)
 
-> <small>LEGO (n.d.). LEGO 12 Grimmauld Place. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/12-grimmauld-place-7640](https://www.lego.com/en-ca/product/12-grimmauld-place-7640)</small>
+> <small>LEGO (n.d.). LEGO Nano Gauntlet. Retrieved February 12 2024, from [https://www.lego.com/en-ca/product/nano-gauntlet-76223](https://https://www.lego.com/en-ca/product/nano-gauntlet-76223)</small>
 
 ### Description
 
-The official [12 Girmmauld Place](https://www.lego.com/en-ca/product/12-grimmauld-place-76408) LEGO® set has a built in intaractive feature. When the back of the bulding is push torwards the front, the two front buildings slide open up to reveal a third.
+The official [Infinity Gauntlet](https://www.lego.com/en-ca/product/12-grimmauld-place-76408) LEGO® set has a built in intaractive feature. When the back of the bulding is push torwards the front, the two front buildings slide open up to reveal a third.
 
-![12 Grimmauld Place](images/lego-grimmauld-interactive.png)
+![Infinity Gauntlet](images/Infinity-Gauntlet.webp)
 
 > <smalll>LEGO (n.d.). LEGO 12 Grimmauld Place. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/12-grimmauld-place-7640](https://www.lego.com/en-ca/product/12-grimmauld-place-7640)</small>
 
