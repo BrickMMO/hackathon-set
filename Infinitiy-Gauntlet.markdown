@@ -11,13 +11,11 @@ Tony Stark's [Infinity Gauntlet](https://www.lego.com/en-ca/product/nano-gauntle
 
 > <smalll>LEGO (n.d.). LEGO Nano Gauntlet. Retrieved February 12 2024, from [https://www.lego.com/en-ca/product/nano-gauntlet-76223](https://https://www.lego.com/en-ca/product/nano-gauntlet-76223)</small>
 
-This motion will be connected to a motor so the interaction can be automated.
-
-This interaction will have an interesting effect on the GPS and mapping tools. UNlike most buildings, this building only exists at certain times. OR the building could be in hiding until the mapping system receives a request for this address.
+This interaction will only require a motor and lights.
 
 ### Requirements
 
-This interaction will only require a large EV3 motor and the EV3 hub:
+The first output will be attached to an EV3 servo motor. The second port will be connected to EV3 Lights.
 
 <img src="/media/ev3/servo-motor.png" height="200">
 <img src="/media/ev3/brick.jpg" height="200">
