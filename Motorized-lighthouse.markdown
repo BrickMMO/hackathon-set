@@ -18,12 +18,12 @@ degrees every 5 minutes. It will run for 5 minutes.
 
 ### Requirements
 
-The only output port will be attached to an EV3 
-servo motor. 
+The only output port will be attached to an EV3 servo motor. 
+
 <img src="./images/freight-sensor.png" height="200">
 
-Motorized Lighthouse will require one output 
-port on an EV3 hub to connect a motor.
+Motorized Lighthouse will require one output port on an EV3 hub to connect a motor.
+
 <img src="./images/motorized-lighthouse-port.png" height="200">
 
 
