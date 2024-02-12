@@ -31,10 +31,10 @@ The input port will be attached to an distance sensor . The output port will be 
 
 ### Port Settings
 
-Port A - Output : Lights : on / oﬀ
-Port B - Output : Motor : on / oﬀ
-Port C - Input : Distance Sensor : 0-9
-Port D - Output : Speaker : on / oﬀ
+Port A - Output : Lights : on / oﬀ  
+Port B - Output : Motor : on / oﬀ  
+Port C - Input : Distance Sensor : 0-9  
+Port D - Output : Speaker : on / oﬀ  
 
 ## Pseudocode
 
