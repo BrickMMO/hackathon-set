@@ -6,8 +6,7 @@
 
 ### Description
 
-The official [Infinity Gauntlet](https://www.lego.com/en-ca/product/12-grimmauld-place-76408) LEGO® set has a built in intaractive feature. When the back of the bulding is push torwards the front, the two front buildings slide open up to reveal a third.
-
+Tony Stark's [Infinity Gauntlet](https://www.lego.com/en-ca/product/nano-gauntlet-76223) from Avengers Endgame. We will add lights in the infinity stones and a moto in the base to make the whole hanf spining  LEGO® set has a built in intaractive feature. 
 ![Infinity Gauntlet](images/Infinity-Gauntlet.webp)
 
 > <smalll>LEGO (n.d.). LEGO 12 Grimmauld Place. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/12-grimmauld-place-7640](https://www.lego.com/en-ca/product/12-grimmauld-place-7640)</small>
