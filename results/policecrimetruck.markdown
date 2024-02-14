@@ -24,14 +24,14 @@ The truck will need a distance sensor to detect
 obstructions.
 Additionally, it will also need LED lights turning
 ON and OFF as well as audio outputs to
-simulate a siren.
+simulate a siren.  
 <img src="../images/police-mobile-crime-lab-truck-large-motor.png" width="624" alt="police mobile crime lab truck large motor">
 <img src="../images/police-mobile-crime-lab-truck-light.png" width="624" alt="police mobile crime lab truck light">
 
 #### Ports
 
 Crime Truck will require two output ports on an
-EV3 hub to connect a motor and LED lights.
+EV3 hub to connect a motor and LED lights.  
 
 <img src="../images/police-mobile-crime-lab-truck-ports.png" width="624" alt="police mobile crime lab truck ports">
 
