@@ -69,6 +69,8 @@ To complete this task, follow these steps:
 
 Once your instructor has merged your pull request, submit a link to your PDF to the **Set Hackathon** assignment in [Blackboard](https://learn.humber.ca/).
 
+> <small>LEGO, the LEGO logo and the Minifigure are trademarks of the LEGO Group. LEGO® is a trademark of the LEGO Group of companies which does not sponsor, authorize or endorse this site.</small>
+
 ---
 
 <a href="https://brickmmo.com">
