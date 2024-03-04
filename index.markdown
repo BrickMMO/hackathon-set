@@ -35,6 +35,7 @@ The [Infinity Gauntlet](https://www.lego.com/en-ca/product/nano-gauntlet-76223) 
 Each year we convert past hackathon PDFs to Markdown in the hopes that they will be programmed into the BrickMMO Smart City:
 
 - [12 Grimmauld Place](12-grimmauld-place)
+- [Red London Telephone Box](phone-booth)
 
 ## Steps
 
