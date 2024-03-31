@@ -1,6 +1,6 @@
 # Firestation 
 
-<img src="images/60375.png" height="300" width="400" alt="FireStation and Fire Truck Image">
+<img src="images/firestation.png" height="300" width="400" alt="FireStation and Fire Truck Image">
 
 ## Description
 
@@ -58,7 +58,12 @@ wait for firestruck to be available
 ELSE emergency is false
 
 ENDIF
+```
 
+[&#10132; Back to Hackathon](/hackathon-set/)
 
+---
 
-
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>

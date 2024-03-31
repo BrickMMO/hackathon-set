@@ -1,6 +1,6 @@
-## London 
+## London Architecture
 
-![London Architecture](images/londonarchitecture.jpeg)
+![London Architecture](images/london-architecture.jpeg)
 
 > <small>LEGO (n.d.). LEGO London #21034. Retrieved February 12, 2024, from [https://www.lego.com/en-ca/product/london-21034](https://www.lego.com/en-ca/product/london-21034)</small>
 
@@ -15,12 +15,11 @@ https://www.lego.com/en-ca/product/london-21034.
 
 > <smalll>LEGO (n.d.). LEGO London Architecture. Retrieved February 12, 2024, from [https://www.lego.com/en-ca/product/london-21034](https://www.lego.com/en-ca/product/london-21034)</small>
 
-
 ### Requirements
 
 This interaction will only require a large EV3 motor:
 
-<img src="/media/ev3/servo-motor.png" height="200">
+<img src="media/ev3/servo-motor.png" height="200">
 
 ### Port Settings
 
@@ -41,7 +40,6 @@ Clock: chime every hour
 In this example,
 
 ```pseudocode
-
 1. London eye:
     When switch is on:
         Turn motor on
@@ -60,7 +58,8 @@ In this example,
     Chime amount of times equal to hour
 ```
 
-[&#21034; Back to Hackathon](/hackathon-set/)
+
+[&#10132; Back to Hackathon](/hackathon-set/)
 
 ---
 

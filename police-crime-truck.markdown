@@ -1,6 +1,6 @@
 ## Police Crime Truck
 
-![Police Crime Truck](../images/police-mobile-crime-lab-truck.png)
+![Police Crime Truck](images/police-mobile-crime-lab-truck.png)
 
 > <small>The LEGO Group. (n.d.). Police Mobile Crime Lab Truck™. Retrieved 2024, from
 [https://www.lego.com/en-ca/product/police-mobile-crime-lab-truck-60418](https://www.lego.com/en-ca/product/police-mobile-crime-lab-truck-60418)</small>
@@ -25,15 +25,15 @@ obstructions.
 Additionally, it will also need LED lights turning
 ON and OFF as well as audio outputs to
 simulate a siren.  
-<img src="../images/police-mobile-crime-lab-truck-large-motor.png" width="624" alt="police mobile crime lab truck large motor">
-<img src="../images/police-mobile-crime-lab-truck-light.png" width="624" alt="police mobile crime lab truck light">
+<img src="images/police-mobile-crime-lab-truck-large-motor.png" width="624" alt="police mobile crime lab truck large motor">
+<img src="images/police-mobile-crime-lab-truck-light.png" width="624" alt="police mobile crime lab truck light">
 
 #### Ports
 
 Crime Truck will require two output ports on an
 EV3 hub to connect a motor and LED lights.  
 
-<img src="../images/police-mobile-crime-lab-truck-ports.png" width="624" alt="police mobile crime lab truck ports">
+<img src="images/police-mobile-crime-lab-truck-ports.png" width="624" alt="police mobile crime lab truck ports">
 
 #### Variables/Settings
 
@@ -45,7 +45,6 @@ alert in the city.
 In this example, the location is only available when recently requested:
 
 ```pseudocode
-
 While True
 
     If status == “ON"
@@ -59,7 +58,6 @@ While True
     else status == “OFF”
 
         Stop motor and light
-
 ```
 
 

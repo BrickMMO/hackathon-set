@@ -1,6 +1,6 @@
-## stadium
+## Stadium
 
-![stadium](images/stadium.png)
+![Stadium](images/stadium.png)
 
 > <small>The LEGO Group. (n.d.). Football-stadium™. Retrieved 2022, from
 [https://www.lego.com/en-ca/product/real-madrid-santiago-bernabeu-stadium-10299](https://www.lego.com/en-ca/product/real-madrid-santiago-bernabeu-stadium-10299)</small>
@@ -43,11 +43,9 @@ This will be plugged into the hub and used to be create ambient noise at set int
 ![Remote Control and Sound Kit](images/soundkit.png)
 
 ## Pseudocode
-
 In this example, the location is only available when recently requested:
 
 ```pseudocode
-
 1. For Lights
 IF (sensor > 150 nits) THEN
 Turn_lights = ON
@@ -58,7 +56,7 @@ For Time = 3 hours + Prev_Time
 Turn_Speaker = ON
 Run Scripts(2 min)
 Then Run the loop again in every 3 hours.
-
+```
 
 
 [&#10132; Back to Hackathon](https://github.com/BrickMMO/hackathon-set/blob/main/index.markdown)

@@ -7,7 +7,6 @@
 ### Module Description
 
 A motor will be fixed to the door of the phone booth so that when a car approaches, the door will swing open and a speaker will emit a ringing noise.
-![Red London Telephone Box](https://www.lego.com/en-ca/product/red-london-telephone-box-21347)
 
 ![Red London Telephone Box](images/phoneboothtwo.jpg)
 

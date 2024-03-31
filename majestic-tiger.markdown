@@ -1,6 +1,6 @@
 ## 50 Majestic Tiger 
 <!--50 Majestic Tiger  -->
-![50 Majestic Tiger](images/50-majestic-tiger-box.jpg)
+![50 Majestic Tiger](images/majestic-tiger-box.jpg)
 
 > <small>LEGO (n.d.). LEGO 50 Majestic Tiger. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/majestic-tiger-31129](https://www.lego.com/en-ca/product/majestic-tiger-31129)</small>
 
@@ -8,10 +8,9 @@
 
 The official [50 Majestic Tiger ](https://www.lego.com/en-ca/product/majestic-tiger-31129) The tiger can move its head at a maximum of 45 degree. When there is trigger, it will open and close its mouth..
 
-![50 Majestic Tiger](images/50-majestic-tiger-interactive.jpg)
+![50 Majestic Tiger](images/majestic-tiger-interactive.jpg)
 
 <small>LEGO (n.d.). LEGO 50 Majestic Tiger. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/majestic-tiger-31129](https://www.lego.com/en-ca/product/majestic-tiger-31129)</small>
-
 
 ### Requirements
 
@@ -24,9 +23,8 @@ The only output port will be attached to an EV3 servo motor.
 3.	3rs status:-moving head 45 degree at right side
 4.	4th status-moving head 45 degree at left side
 
-
-<img src="/images/motor.jpg" height="200">
-<img src="/images/tiger-mouth.jpg" height="200">
+<img src="images/motor.jpg" height="200">
+<img src="images/tiger-mouth.jpg" height="200">
 
 ## Pseudocode
 
@@ -50,9 +48,6 @@ Start mouth open motor counter-clockwise
             Stop head motor
 
 End
-
-
-
 
 [&#10132; Back to Hackathon](/hackathon-set/)
 

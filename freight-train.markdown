@@ -51,7 +51,6 @@ Buildings: The ID of the Freight Train Track.
 In this example, the location is only available when recently requested:
 
 ```pseudocode
-
 Train motor:
 
 While True
@@ -66,7 +65,6 @@ Motor speed = 0
 ```
 
 ```pseudocode
-
 Track toggle:
 
 While true

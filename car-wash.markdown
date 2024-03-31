@@ -10,8 +10,7 @@
 The [Car wash] (https://www.lego.com/en-ca/product/car-wash-60362)
 LEGO® set includes a car and the car
 wash building with brushes that turn once a car
-is pushed through. 
-
+is pushed through.
 
 This module will have a car that automatically drives through the car wash. Once a car enters
 the car wash, a light will turn red to signal that
@@ -54,7 +53,6 @@ Buildings: The ID of the Car Wash building.
 In this example, the location is only available when recently requested:
 
 ```pseudocode
-
 If motion sensor = true
 
 Then matrix light = red and countdown starts
@@ -63,8 +61,6 @@ If countdown = 0
 
 Then car drives off
 ```
-
-
 
 [&#10132; Back to Hackathon](https://github.com/BrickMMO/hackathon-set/blob/main/index.markdown)
 

@@ -1,6 +1,5 @@
 ## London bus
-!(London Bus)(img/)
-![12 Grimmauld Place](images/london bus.png)
+![12 Grimmauld Place](images/london-bus.png)
 
 > <small>LEGO (n.d.). LEGO 40220 London Bus , from [https://www.lego.com/en-ca/product/london-bus-40220](https://www.lego.com/en-ca/product/london-bus-40220)</small>
 
@@ -18,7 +17,7 @@ This motion will be connected to a motor so the interaction can be automated.
 
 This interaction will only require a large EV3 motor and the EV3 hub:
 
-<img src="/images/motor.jpg" height="200">
+<img src="images/motor.jpg" height="200">
 
 ## Pseudocode
 
@@ -35,8 +34,7 @@ wait for time(DOOR_OPEN _TIME)
 close_doors()
 else:
 BusStop_detected = False
-
-```pseudocode
+```
 
 [&#10132; Back to Hackathon](/hackathon-set/)
 

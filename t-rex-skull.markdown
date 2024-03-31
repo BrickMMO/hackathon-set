@@ -1,15 +1,11 @@
-## T-REX SKULL
-BY:
-- Ting Liu
-- Reddy Nagendra
+## T. rex Skull
 
-### Dinosaur Fossils: T.rex Skull
-<small>LEGO  (n.d.). JuRassic World Dinosaur Fossils: T. rex Skull(76964)</small>
-![DF](images/Dinosaur-Fossils.png)
-![DF2](images/Dinosaur-Fossils-2.png)
-![DF3](images/Dinosaur-Fossils-3.png)
+![T. rex Skull](images/dinosaur-fossils.png)
 
-### Module Description
+> <small>LEGO  (n.d.). JuRassic World Dinosaur Fossils: T. rex Skull(76964)
+[https://www.lego.com/en-ca/product/dinosaur-fossils-t-rex-skull-76964](https://www.lego.com/en-ca/product/dinosaur-fossils-t-rex-skull-76964)</small>
+
+### Description
 The T-Rex Skull Module can be placed 
 next to the Loop Coaster Module. The 
 Skull can be a part of the Amusement park 
@@ -22,7 +18,7 @@ reached it.
 
 ![Rolling Coaster](images/Rolling-Coaster.png)
 
-## Requirements
+### Requirements
 We need the below mentioned devices for 
 making the T-Rex Skull open and close
 - A sensor - To detect the incoming cart on 
@@ -32,15 +28,17 @@ screech
 - Motor - Attached to the skull, will make the 
 mouth open and close
 
-## Electric components
+#### Electric components
 - Technic Montor
 - Battery pack
 - Color & Distance Sensor
-![88](images/loop-coaster-item-88013.png)
-![89](images/loop-coaster-item-88015.png)
+![88](images/loop-coaster-88013.png)
+![89](images/loop-coaster-88015.png)
 ![90](images/loop3.png)
 
-## LOT Loop
+## Pseudocode
+LOT Loop
+
 ```
 While True:
     if status == "on"
@@ -49,9 +47,17 @@ While True:
             mouthOpen = True 
         else 
             mouthOpen = False
-            move Technic back to initial position.            
+            move Technic back to initial position.
         if mouthOpen == True:
             make screech sound.
         else 
             stop sound.
 ```
+
+[&#10132; Back to Hackathon](https://github.com/BrickMMO/hackathon-set/blob/main/index.markdown)
+
+---
+
+<a href="https://brickmmo.com">
+<img src="https://brickmmo.com/images/brickmmo-logo-horizontal.jpg" width="100">
+</a>

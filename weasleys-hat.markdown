@@ -1,6 +1,6 @@
 ## Weasley’s Hat
 
-![Weasleys-Hat](images/Weasley's%20Hat.png)
+![Weasleys-Hat](images/weasleys-hat.png)
 
 > <small>The LEGO Group. (n.d.). Weasley's-Hat™. Retrieved 2022, from
 [https://www.lego.com/en-ca/product/diagon-alley-weasleys-wizard-wheezes-76422](https://www.lego.com/en-ca/product/diagon-alley-weasleys-wizard-wheezes-76422)</small>
@@ -23,7 +23,7 @@ EV3 brain
 The only output port will be attached to an EV3
 servo motor.
 
-![Hat Sensor](images/Sensor.png)
+![Hat Sensor](images/sensor.png)
 
 #### Port Settings
 
@@ -40,7 +40,6 @@ Wheezes building
 In this example, the location is only available when recently requested:
 
 ```pseudocode
-
 While True
 If status == "on"
 If counter == 0
@@ -52,8 +51,6 @@ Start motor slow counter-clockwise
 Else If counter == 60
 Stop motor
 ```
-
-
 
 [&#10132; Back to Hackathon](https://github.com/BrickMMO/hackathon-set/blob/main/index.markdown)
 

@@ -18,7 +18,7 @@ This interaction can be automated through the motor, lights and a converter.
 
 For this to work, we’ll need to use EV3 motor, LED lights, and a Converter. Lunar Lander will require two output ports on an EV3 hub to connect a motor and a converter with lights.
 
-<img src="./images/Sensor.png" height="200">
+<img src="./images/sensor.png" height="200">
 <img src="./images/lights.png" height="200">
 <img src="./images/converter.png" height="200">
 
@@ -30,7 +30,6 @@ Status: Can be set to "on" or "off". When on Lunar Lander will lift every ten mi
 ## Pseudocode
 
 ```pseudocode
-
 While true
     if status == on
         if counter == 0 
@@ -41,9 +40,7 @@ While true
             stop motor
             // comes down 
             switch off lights
-
 ```
-
 
 [&#10132; Back to Hackathon](/hackathon-set/)
 

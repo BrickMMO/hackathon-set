@@ -18,15 +18,14 @@ The police will chase and arrest the robber, then escort the robber back to the 
 
 This interaction will require three motors: two for the cars. One for the bike.
 
-<img src="https://github.com/brickmmo/media/blob/main/ev3/servo-motor.png" height="200">
-<img src="https://github.com/brickmmo/media/blob/main/ev3/brick.jpg" height="200">
+<img src="media/ev3/servo-motor.png" height="200">
+<img src="media/ev3/brick.jpg" height="200">
 
 ## Pseudocode
 
 In this example, The police will chase and arrest the robber, then escort the robber back to the police station when a siren is triggered:
 
 ```pseudocode
-
 Function Chase Robber
 WHILE siren NOT triggered
 	Continue police patrol route
@@ -35,7 +34,6 @@ WHILE siren NOT triggered
 		Change to police chase route
 
 	END IF
-	
 END WHILE
 
 Function Arrest Robber
@@ -51,9 +49,7 @@ WHILE ditance between robber and police car > 2cm
 	Call Arrest Robber Function
 
 END WHILE
-
 ```
-
 
 [&#10132; Back to Hackathon](/hackathon-set/)
 

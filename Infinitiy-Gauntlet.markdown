@@ -1,6 +1,6 @@
 ## Infinity Gauntlet
 
-<img src="images/Infinity-Gauntlet-box.webp" style="height: 500px;"> 
+<img src="images/infinity-gauntlet-box.png" style="height: 500px;"> 
 
 > <small>LEGO (n.d.). LEGO Nano Gauntlet. Retrieved February 12 2024, from [https://www.lego.com/en-ca/product/nano-gauntlet-76223](https://https://www.lego.com/en-ca/product/nano-gauntlet-76223)</small>
 
@@ -8,7 +8,7 @@
 
 Tony Stark's [Infinity Gauntlet](https://www.lego.com/en-ca/product/nano-gauntlet-76223) from Avengers Endgame. We will add lights in the infinity stones and a motor in the base to make the whole hand spinning.
 
-<img src="images/Infinity-Gauntlet.webp" style="width: 624px;"> 
+<img src="images/infinity-gauntlet.png" style="width: 624px;"> 
 
 > <smalll>LEGO (n.d.). LEGO Nano Gauntlet. Retrieved February 12 2024, from [https://www.lego.com/en-ca/product/nano-gauntlet-76223](https://https://www.lego.com/en-ca/product/nano-gauntlet-76223)</small>
 
@@ -19,8 +19,8 @@ This interaction will only require a motor and lights.
 
 The first output will be attached to an EV3 servo motor. The second port will be connected to EV3 Lights.
 
-<img src="/media/ev3/servo-motor.jpeg" height="200">
-<img src="/power-functions/lights.jpeg" height="200">
+<img src="media/ev3/servo-motor.jpeg" height="200">
+<img src="media/power-functions/lights.jpeg" height="200">
 
 ## Pseudocode
 

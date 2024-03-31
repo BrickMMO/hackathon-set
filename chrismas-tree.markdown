@@ -12,7 +12,6 @@ The lighting of the Christmas tree will work according to color brightness. To m
 Input will be color brightness to the sensor.
 Output led bulb will light.
 
-
 ### Requirements
 
 Christmas tree will require two output port on an EV3 brain.
@@ -34,12 +33,9 @@ Christmas trees turn on light by a sensor
 In this example, the location is only available when recently requested:
 
 ```pseudocode
-
 If ( sensor > 25){ turn off light}
 else (sensor <= 25){ turn on light}
 ```
-
-
 
 [&#10132; Back to Hackathon](https://github.com/BrickMMO/hackathon-set/blob/main/index.markdown)
 
