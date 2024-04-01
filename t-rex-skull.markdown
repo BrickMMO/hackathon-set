@@ -2,8 +2,8 @@
 
 ![T. rex Skull](images/dinosaur-fossils.png)
 
-> <small>LEGO  (n.d.). JuRassic World Dinosaur Fossils: T. rex Skull(76964)
-[https://www.lego.com/en-ca/product/dinosaur-fossils-t-rex-skull-76964](https://www.lego.com/en-ca/product/dinosaur-fossils-t-rex-skull-76964)</small>
+> <small>LEGO (n.d.). LEGO JuRassic World Dinosaur Fossils: T. rex Skull. Retrieved 12 February, 
+2024, from [https://www.lego.com/en-ca/product/jazz-quartet-21334](https://www.lego.com/enca/product/dinosaur-fossils-t-rex-skull-76964) [https://www.lego.com/en-ca/product/dinosaurfossils-t-rex-skull-76964](https://www.lego.com/en-ca/product/dinosaur-fossils-t-rexskull-76964)</small>
 
 ### Description
 The T-Rex Skull Module can be placed 
@@ -16,7 +16,7 @@ detects the arrival of the cart and we can
 programme it to open its mouth as the cart 
 reached it.
 
-![Rolling Coaster](images/Rolling-Coaster.png)
+![Rolling Coaster](images/rolling-coaster.png)
 
 ### Requirements
 We need the below mentioned devices for 
