@@ -2,8 +2,8 @@
 
 ![Freight Train](images/freight-train.png)
 
-> <small>The LEGO Group. (n.d.). Diagon Alley™. Retrieved 2022, from
-[https://www.lego.com/en-ca/product/diagon-alley-75978](https://www.lego.com/en-ca/product/diagon-alley-75978)</small>
+> <small>The LEGO Group. (n.d.). Freight Train. Retrieved 2022, from
+[https://www.lego.com/en-ca/product/freight-train-60336](https://www.lego.com/en-ca/product/freight-train-60336)</small>
 
 ### Description
 
@@ -11,9 +11,6 @@ The [Freight Train](https://www.lego.com/en-ca/product/diagon-alley-75978)
 LEGO® set will travel around the loop. The train
 can also switch to the straight track by toggling
 the switch. 
-
-> <small>The LEGO Group. (n.d.). Diagon Alley™. Retrieved 2022, from
-[https://www.lego.com/en-ca/product/diagon-alley-75978](https://www.lego.com/en-ca/product/diagon-alley-75978)</small>
 
 ### Requirements
 
