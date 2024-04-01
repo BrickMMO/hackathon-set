@@ -3,7 +3,7 @@
 ![T. rex Skull](images/dinosaur-fossils.png)
 
 > <small>LEGO (n.d.). LEGO JuRassic World Dinosaur Fossils: T. rex Skull. Retrieved 12 February, 
-2024, from [https://www.lego.com/en-ca/product/jazz-quartet-21334](https://www.lego.com/enca/product/dinosaur-fossils-t-rex-skull-76964) [https://www.lego.com/en-ca/product/dinosaurfossils-t-rex-skull-76964](https://www.lego.com/en-ca/product/dinosaur-fossils-t-rexskull-76964)</small>
+2024, from [https://www.lego.com/en-ca/product/dinosaur-fossils-t-rex-skull-76964](https://www.lego.com/en-ca/product/dinosaur-fossils-t-rex-skull-76964)</small>
 
 ### Description
 The T-Rex Skull Module can be placed 
