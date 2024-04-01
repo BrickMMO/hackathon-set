@@ -2,8 +2,8 @@
 
 ![Hospital](images/hospital.png)
 
-> <small>The LEGO Group. (n.d.). Weasley's-Hat™. Retrieved 2022, from
-[https://www.lego.com/cdn/cs/set/assets/blt9fca6bebb661ec35/60330.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1](https://www.lego.com/cdn/cs/set/assets/blt9fca6bebb661ec35/60330.png?format=webply&fit=bounds&quality=75&width=800&height=800&dpr=1)</small>
+> <small>The LEGO Group. (n.d.). Hospital. Retrieved 2022, from
+[https://www.lego.com/en-ca/product/hospital-60330](https://www.lego.com/en-ca/product/hospital-60330)</small>
 
 ### Description
 
