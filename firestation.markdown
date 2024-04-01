@@ -1,6 +1,8 @@
 # Firestation 
 
-<img src="images/firestation.png" height="300" width="400" alt="FireStation and Fire Truck Image">
+![Firestation](images/firestation.png)
+
+> <small>LEGO. (n.d.). Fire Station and Fire Truck. Retrieved February 12, 2024, from [https://www.lego.com/en-ca/product/fire-station-and-fire-engine-60375](https://www.lego.com/en-ca/product/fire-station-and-fire-engine-60375)</small>
 
 ## Description
 
