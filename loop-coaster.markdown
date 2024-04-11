@@ -18,17 +18,15 @@ motorized coaster going around once.
 
 The Loop Coaster will require a Motor and Battery pack.
 
-![Loop Coaster Sensors and Motors](images/loop-coaster-item-88013.png)
+![Loop Coaster Sensors and Motors](images/loop-coaster-88015.png)
 
-![Loop Coaster Sensors and Motors](images/loop-coaster-item-88015.png)
-
+![Loop Coaster Sensors and Motors](images/loop-coaster-88013.png)
 
 ## Pseudocode
 
 In this example, the location is only available when recently requested:
 
 ```pseudocode
-
 Elevator code:
 
 While true
@@ -53,7 +51,6 @@ Stop motor
 ```
 
 ```pseudocode
-
 Coaster Code:
 
 While true

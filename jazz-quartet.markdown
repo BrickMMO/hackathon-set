@@ -16,13 +16,13 @@ The [Jazz Quartet](https://www.lego.com/en-ca/product/jazz-quartet-21334) LEGO®
 
 Jazz Quartet will output port on an EV3 hub to connect ultrasonic sensor.
 
-<img src="/media/ev3/ports-motors.png" height="200">
+<img src="./media/ev3/ports-sensors.png" height="200">
 
 ### Sensors and Motors
 
-Ultrasonic Sensor will be used to detect object distance.
+Untrasonic Sensor will be used to detect object distance.
 
-<img src="/media/ev3/ultrasonic-sensor.jpeg" height="200">
+<img src="./media/ev3/untrasonic-sensor.jpeg" height="200">
 
 ### Variable and Settings
 
@@ -35,8 +35,6 @@ Status: Can be set to "on" or "off". When on the quartet will move/play whenever
 In this example, the Jazz quartet will only play when there are any objects at 15' or closer:
 
 ```pseudocode
-
-
 WHile distance<=15
 
     IF status == "off"
@@ -48,14 +46,13 @@ WHile distance<=15
 
         status = "on"
         keep playing
-    
-    ELSE 
+
+    ELSE
 
         status = "off"
         stop playing
 
     ENDIF
-
 ```
 
 [&#10132; Back to Hackathon](/hackathon-set/)

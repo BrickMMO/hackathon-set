@@ -20,10 +20,10 @@ Welcome to Manor von Barron, a spooky Haunted House theme-park ride packed with 
 4. Lights
 5. Speaker
 
-<img src="/media/ev3/steering-motor.png" height="200">
-<img src="/media/spike/hub-robot-inventor.jpeg" height="200">
-<img src="/media/spike/distance-sensor.png" height="200">
-<img src="/media/power-functions/lights.jpeg" height="200">
+<img src="media/ev3/steering-motor.png" height="200">
+<img src="media/spike/hub-robot-inventor.jpeg" height="200">
+<img src="media/spike/distance-sensor.png" height="200">
+<img src="media/power-functions/lights.jpeg" height="200">
 
 ### Sensors and Motors
 
