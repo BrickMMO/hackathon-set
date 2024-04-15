@@ -34,8 +34,30 @@ The [Infinity Gauntlet](https://www.lego.com/en-ca/product/nano-gauntlet-76223) 
 
 Each year we convert past hackathon PDFs to Markdown in the hopes that they will be programmed into the BrickMMO Smart City:
 
-- [12 Grimmauld Place](12-grimmauld-place)
-- [Red London Telephone Box](phone-booth)
+- [Car Wash](https://github.com/joeyin/forked-hackathon-set/blob/main/car-wash.markdown)
+- [Christmas tree](https://github.com/joeyin/forked-hackathon-set/blob/main/chrismas-tree.markdown)
+- [Cops and Robbers](https://github.com/joeyin/forked-hackathon-set/blob/main/cops-robbers.markdown)
+- [Dagobah Swamp](https://github.com/joeyin/forked-hackathon-set/blob/main/dagobah-swamp.markdown)
+- [Daily Bugle](https://github.com/joeyin/forked-hackathon-set/blob/main/daily-bugle.markdown)
+- [Firestation](https://github.com/joeyin/forked-hackathon-set/blob/main/firestation.markdown)
+- [Freight Train](https://github.com/joeyin/forked-hackathon-set/blob/main/freight-train.markdown)
+- [Grimmauld Place](https://github.com/joeyin/forked-hackathon-set/blob/main/grimmauld-place.markdown)
+- [Haunted House](https://github.com/joeyin/forked-hackathon-set/blob/main/haunted-house.markdown)
+- [Hospital](https://github.com/joeyin/forked-hackathon-set/blob/main/hospital.markdown)
+- [Ice Cream Truck](https://github.com/joeyin/forked-hackathon-set/blob/main/ice-cream-truck.markdown)
+- [Infinity Gauntlet](https://github.com/joeyin/forked-hackathon-set/blob/main/infinitiy-gauntlet.markdown)
+- [Jazz Quartet](https://github.com/joeyin/forked-hackathon-set/blob/main/jazz-quartet.markdown)
+- [London Architecture](https://github.com/joeyin/forked-hackathon-set/blob/main/london-architecture.markdown)
+- [London bus](https://github.com/joeyin/forked-hackathon-set/blob/main/london-bus.markdown)
+- [Loop Coaster](https://github.com/joeyin/forked-hackathon-set/blob/main/loop-coaster.markdown)
+- [Lunar Lander](https://github.com/joeyin/forked-hackathon-set/blob/main/lunar-lander.markdown)
+- [Majestic Tiger](https://github.com/joeyin/forked-hackathon-set/blob/main/majestic-tiger.markdown)
+- [Motorized Lighthouse](https://github.com/joeyin/forked-hackathon-set/blob/main/motorized-lighthouse.markdown)
+- [Red London Telephone Box](https://github.com/joeyin/forked-hackathon-set/blob/main/phone-booth.markdown)
+- [Police Crime Truck](https://github.com/joeyin/forked-hackathon-set/blob/main/police-crime-truck.markdown)
+- [Stadium](https://github.com/joeyin/forked-hackathon-set/blob/main/stadium.markdown)
+- [T. rex Skull](https://github.com/joeyin/forked-hackathon-set/blob/main/t-rex-skull.markdown)
+- [Weasley’s Hat](https://github.com/joeyin/forked-hackathon-set/blob/main/weasleys-hat.markdown)
 
 ## Steps
 
