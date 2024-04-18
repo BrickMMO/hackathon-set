@@ -10,7 +10,7 @@ Welcome to Manor von Barron, a spooky Haunted House theme-park ride packed with 
 
 ![Haunted House](images/haunted-house-interactive.png)
 
-> <smalll>LEGO (n.d.). LEGO Haunted House. Retrieved February 12, 2024, from [https://www.lego.com/en-ca/product/haunted-house-10273](https://www.lego.com/en-ca/product/haunted-house-10273)</small>
+> <small>LEGO (n.d.). LEGO Haunted House. Retrieved February 12, 2024, from [https://www.lego.com/en-ca/product/haunted-house-10273](https://www.lego.com/en-ca/product/haunted-house-10273)</small>
 
 ### Requirements
 
