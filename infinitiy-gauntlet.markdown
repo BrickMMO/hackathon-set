@@ -10,7 +10,7 @@ Tony Stark's [Infinity Gauntlet](https://www.lego.com/en-ca/product/nano-gauntle
 
 <img src="images/infinity-gauntlet.png" style="width: 624px;"> 
 
-> <smalll>LEGO (n.d.). LEGO Nano Gauntlet. Retrieved February 12 2024, from [https://www.lego.com/en-ca/product/nano-gauntlet-76223](https://https://www.lego.com/en-ca/product/nano-gauntlet-76223)</small>
+> <small>LEGO (n.d.). LEGO Nano Gauntlet. Retrieved February 12 2024, from [https://www.lego.com/en-ca/product/nano-gauntlet-76223](https://https://www.lego.com/en-ca/product/nano-gauntlet-76223)</small>
 
 This interaction will only require a motor and lights.
 
@@ -60,7 +60,7 @@ If counter == 100
 
 ## Port Settings
 
-Rotating hand Stauts: Can be set "on" or "off". (Rotate back and forth constantly)
+Rotating hand Status: Can be set "on" or "off". (Rotate back and forth constantly)
 
 Lights Status: Can be sent to "on" or "off". (The Infinity Stones will light up and turn off automatically)
 
