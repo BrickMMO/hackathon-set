@@ -2,7 +2,7 @@
 
 ![Loop Coaster](images/loop-coaster.png)
 
-> <small>The LEGO Group. (n.d.). Loop Coater™. Retrieved 2023, from
+> <small>The LEGO Group. (n.d.). Loop Coaster™. Retrieved 2023, from
 [https://www.lego.com/en-ca/product/loop-coaster-10303](https://www.lego.com/en-ca/product/loop-coaster-10303)</small>
 
 ### Description
