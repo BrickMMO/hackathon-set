@@ -8,7 +8,7 @@
 ### Description
 
 The [Football Stadium] (https://www.lego.com/en-ca/product/real-madrid-santiago-bernabeu-stadium-10299)
-Th main idea behind this project is to create a stadium and built in some lights which goes “ON” or “OFF” as per the lights hits the sensor and to built-in some speaker to make some crowd noise such that a game is going on.
+Th main idea behind this project is to create a stadium and build in some lights which go “ON” or “OFF” as per the light hits the sensor and to build in some speakers to make some crowd noise such that a game is going on.
 
 
 ### Requirements
@@ -20,13 +20,13 @@ Th main idea behind this project is to create a stadium and built in some lights
 
 #### Lights
 
-The lights are going to be atached to the hub to provide illumina􀆟on to the stadium.
+The lights are going to be attached to the hub to provide illumination to the stadium.
 
 ![Lights](images/lights.png)
 
 #### Ev3 Brick
 
-This is the brains of whole contrap􀆟ons; the ev3 brick would be plugged in to the computer while will send the code to the hub which will process and send it to the lights and components.
+This is the brains of whole contraption; the ev3 brick will be plugged into the computer and will send the code to the hub which will process and send it to the lights and components.
 
 ![ev3 Brick](images/ev3.png)
 
@@ -38,7 +38,7 @@ This would be used as a daylight sensor which will constantly calculate the brig
 
 #### Remote Control and Sound Kit
 
-This will be plugged into the hub and used to be create ambient noise at set interval of 􀆟me.
+This will be plugged into the hub and used to be create ambient noise at set interval of time.
 
 ![Remote Control and Sound Kit](images/soundkit.png)
 
@@ -55,7 +55,7 @@ Turn_lights = OFF
 For Time = 3 hours + Prev_Time
 Turn_Speaker = ON
 Run Scripts(2 min)
-Then Run the loop again in every 3 hours.
+Then Run the loop again every 3 hours.
 ```
 
 
