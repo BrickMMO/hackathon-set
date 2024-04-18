@@ -28,7 +28,7 @@ The fire station management system is equipped with a fire truck(nozzles, fire e
 
 ## Port Settings
 
-* Port is “on” when the alarm is more on for more then 1 minute otherwise its “off”.
+* Port is “on” when the alarm is on for more then 1 minute otherwise its “off”.
 * Output port will be the Fire station from where the truck will go to destination.
 
 <img src="images/port-settings.jpg" height="300" width="400" alt="Port Settings">
@@ -47,15 +47,15 @@ emergencyLocation = building on fire location
 
 function goToLocation(emergencyLocation)
 {
- use the map and the emergencyLocation to get the route for the firestruck
+ use the map and the emergencyLocation to get the route for the firetruck
  }
 
-IF firestruck == available 
+IF firetruck == available 
 goToLocation() 
 emergency = false
 
 ELSE
-wait for firestruck to be available
+wait for firetruck to be available
 
 ELSE emergency is false
 
