@@ -6,14 +6,14 @@
 
 ### Description
 
-The official [London Architecture ](https://www.lego.com/en-ca/product/london-21034) LEGO® set has a built in intaractive feature. The London Eye will turn at a steady pace with lights. The London Bridge will sense movement of boats and will open until sensor stops detecting.  Will also change traffic lights accordingly. If possible, add a clock on Big Ben. It will chime every hour. 
+The official [London Architecture ](https://www.lego.com/en-ca/product/london-21034) LEGO® set has a built in interactive feature. The London Eye will turn at a steady pace with lights. The London Bridge will sense movement of boats and will open until sensor stops detecting.  Will also change traffic lights accordingly. If possible, add a clock on Big Ben. It will chime every hour. 
 
 The LEGO Group. (n.d.). London™. Retrieved 2024, from 
 https://www.lego.com/en-ca/product/london-21034.
 
 ![London Architecture](images/londoncity.png)
 
-> <smalll>LEGO (n.d.). LEGO London Architecture. Retrieved February 12, 2024, from [https://www.lego.com/en-ca/product/london-21034](https://www.lego.com/en-ca/product/london-21034)</small>
+> <small>LEGO (n.d.). LEGO London Architecture. Retrieved February 12, 2024, from [https://www.lego.com/en-ca/product/london-21034](https://www.lego.com/en-ca/product/london-21034)</small>
 
 ### Requirements
 
@@ -43,7 +43,7 @@ In this example,
 1. London eye:
     When switch is on:
         Turn motor on
-    When witch is off:
+    When switch is off:
         Turn motor off
 
 2. London bridge:
