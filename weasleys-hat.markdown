@@ -28,7 +28,7 @@ servo motor.
 #### Port Settings
 
 Status: Can be set to "on" or "off". When on
-Weasley’s hap will tip every ten minutes.
+Weasley’s hat will tip every ten minutes.
 
 #### Port JSON
 
