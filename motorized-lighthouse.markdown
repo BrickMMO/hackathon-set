@@ -13,7 +13,7 @@ degrees every 5 minutes. It will run for 5 minutes.
 
 ![Motorized Lighthouse](./images/motorized-lighthouse2.png)
 
-> <smalll>LEGO (n.d.). LEGO Motorized Lighthouse. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/motorised-lighthouse-21335](https://www.lego.com/en-ca/product/motorised-lighthouse-21335)</small>
+> <small>LEGO (n.d.). LEGO Motorized Lighthouse. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/motorised-lighthouse-21335](https://www.lego.com/en-ca/product/motorised-lighthouse-21335)</small>
 
 
 ### Requirements
@@ -29,7 +29,7 @@ Motorized Lighthouse will require one output port on an EV3 hub to connect a mot
 
 ### Variables/Settings
 
-Status: Can be set to "on" or "off". When on The light will turn on and rotate 360 degrees
+Status: Can be set to "on" or "off". When on, the light will turn on and rotate 360 degrees
 Interval can be changed.
 
 <img src="./images/motorized-lighthouse-settings.png" height="100">
