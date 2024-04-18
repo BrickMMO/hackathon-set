@@ -14,11 +14,11 @@ receives a signal.
 ### Requirements
 
 The Hospital will require a prime hub with 6 
-port
+ports
 
 #### Sensors and Motors
 
-The sensors and motors required at this time is 
+The sensors and motors required at this time are 
 the prime hub, small motors, and lights
 
 <img src="media/spike/hub-prime.jpeg" height="200">
