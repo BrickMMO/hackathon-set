@@ -6,17 +6,17 @@
 
 ### Module Description
 
-The official [11 Lunar Lander](https://www.lego.com/en-ca/product/nasa-apollo-11-lunar-lander-10266) LEGO® set has a built in intaractive feature. Lunar Lander set already has a lever to lift the cabin manually. This module will lift Lunar Lander automatically every 10 minutes and lighten it up.
+The official [11 Lunar Lander](https://www.lego.com/en-ca/product/nasa-apollo-11-lunar-lander-10266) LEGO® set has a built in interactive feature. Lunar Lander set already has a lever to lift the cabin manually. This module will lift Lunar Lander automatically every 10 minutes and light it up.
 
 ![11 Lunar Lander](images/lunar-lander-interactive.png)
 
-> <smalll>LEGO (n.d.). LEGO 11 Lunar Lander. Retrieved February 12, 2024, from [https://www.lego.com/en-ca/product/nasa-apollo-11-lunar-lander-10266](https://www.lego.com/en-ca/product/nasa-apollo-11-lunar-lander-10266)</small>
+> <small>LEGO (n.d.). LEGO 11 Lunar Lander. Retrieved February 12, 2024, from [https://www.lego.com/en-ca/product/nasa-apollo-11-lunar-lander-10266](https://www.lego.com/en-ca/product/nasa-apollo-11-lunar-lander-10266)</small>
 
 This interaction can be automated through the motor, lights and a converter.
 
 ### Sensors, Motors and Ports
 
-For this to work, we’ll need to use EV3 motor, LED lights, and a Converter. Lunar Lander will require two output ports on an EV3 hub to connect a motor and a converter with lights.
+For this to work, we’ll need to use EV3 motor, LED lights, and a converter. Lunar Lander will require two output ports on an EV3 hub to connect a motor and a converter with lights.
 
 <img src="./images/sensor.png" height="200">
 <img src="./images/lights.png" height="200">
