@@ -6,7 +6,7 @@
 
 ### Description
 
-The green swamp besides Yoda’s hut will flicker 
+The green swamp beside Yoda’s hut will flicker 
 with a green glow.
 
 <img src="images/dagobah-swamp-2.png" height="200">
