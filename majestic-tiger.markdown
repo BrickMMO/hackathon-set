@@ -6,7 +6,7 @@
 
 ### Description
 
-The official [50 Majestic Tiger ](https://www.lego.com/en-ca/product/majestic-tiger-31129) The tiger can move its head at a maximum of 45 degree. When there is trigger, it will open and close its mouth..
+The official [50 Majestic Tiger ](https://www.lego.com/en-ca/product/majestic-tiger-31129) The tiger can move its head at a maximum of 45 degrees. When there is a trigger, it will open and close its mouth.
 
 ![50 Majestic Tiger](images/majestic-tiger-interactive.jpg)
 
@@ -20,8 +20,8 @@ The only output port will be attached to an EV3 servo motor.
 1. 1f the status is “on”- one port(opening the tiger mouth)
 2.	2nd status is: “off” -(closing the mouth of tiger)
 2nd port
-3.	3rs status:-moving head 45 degree at right side
-4.	4th status-moving head 45 degree at left side
+3.	3rd status:-moving head 45 degrees at right side
+4.	4th status-moving head 45 degrees at left side
 
 <img src="images/motor.jpg" height="200">
 <img src="images/tiger-mouth.jpg" height="200">
