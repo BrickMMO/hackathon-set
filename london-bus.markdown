@@ -5,11 +5,11 @@
 
 ### Description
 
-The official [London Bus](https://www.lego.com/en-ca/product/london-bus-40220) London Bus is our module so basically when the bus goes from one stop to another with the use of sensor the bus doors will automatically open 10 seconds and if passengers is not there the bus will automatically close its doors. Apart from this one feature we would like to add is that when the moving vehicle passes or comes in front of the bus to a certain distance of 10 meters and so the bus will automatically honk.
+The official [London Bus](https://www.lego.com/en-ca/product/london-bus-40220) London Bus is our module so basically when the bus goes from one stop to another with the use of sensor the bus doors will automatically open 10 seconds and if passengers are not there the bus will automatically close its doors. Apart from this one feature we would like to add is that when the moving vehicle passes or comes in front of the bus to a certain distance of 10 meters and so the bus will automatically honk.
 
 ![London bus](images/london bus.png)
 
-> <smalll>LEGO (n.d.). LEGO London Bus, from [https://www.lego.com/en-ca/product/london-bus-40220](https://www.lego.com/en-ca/product/london-bus-40220)</small>
+> <small>LEGO (n.d.). LEGO London Bus, from [https://www.lego.com/en-ca/product/london-bus-40220](https://www.lego.com/en-ca/product/london-bus-40220)</small>
 
 This motion will be connected to a motor so the interaction can be automated.
 
