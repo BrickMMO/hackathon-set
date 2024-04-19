@@ -1,5 +1,5 @@
 ## Vespa
-<img src="/hackathon-set/images/vespa.png" height = "300" width="400" alt="vespa image">
+<img src="images/vespa.png" height = "300" width="400" alt="vespa image">
 
 ## Description
 
