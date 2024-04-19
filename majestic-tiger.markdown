@@ -17,7 +17,7 @@ The official [50 Majestic Tiger ](https://www.lego.com/en-ca/product/majestic-ti
 Sensors and Motors
 The only output port will be attached to an EV3 servo motor. 
 
-1. 1f the status is “on”- one port(opening the tiger mouth)
+1. 1st the status is “on”- one port(opening the tiger mouth)
 2.	2nd status is: “off” -(closing the mouth of tiger)
 2nd port
 3.	3rd status:-moving head 45 degrees at right side
