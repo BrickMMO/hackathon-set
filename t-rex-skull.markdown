@@ -2,7 +2,7 @@
 
 ![T. rex Skull](images/dinosaur-fossils.png)
 
-> <small>LEGO (n.d.). LEGO JuRassic World Dinosaur Fossils: T. rex Skull. Retrieved 12 February, 
+> <small>LEGO (n.d.). LEGO Jurassic World Dinosaur Fossils: T-rex Skull. Retrieved 12 February, 
 2024, from [https://www.lego.com/en-ca/product/dinosaur-fossils-t-rex-skull-76964](https://www.lego.com/en-ca/product/dinosaur-fossils-t-rex-skull-76964)</small>
 
 ### Description
@@ -13,8 +13,8 @@ part of the Lego city
 
 The Dinosaur will have a sensor that 
 detects the arrival of the cart and we can 
-programme it to open its mouth as the cart 
-reached it.
+program it to open its mouth as the cart 
+reaches it.
 
 ![Rolling Coaster](images/rolling-coaster.png)
 
@@ -29,7 +29,7 @@ screech
 mouth open and close
 
 #### Electric components
-- Technic Montor
+- Technic Motor
 - Battery pack
 - Color & Distance Sensor
 ![88](images/loop-coaster-88013.png)
@@ -43,7 +43,7 @@ LOT Loop
 While True:
     if status == "on"
         if cartDetected == True and motor is at initial upright position:
-            Turn Technic motor 45 degree anti-clockwise
+            Turn Technic motor 45 degrees counter-clockwise
             mouthOpen = True 
         else 
             mouthOpen = False
