@@ -7,7 +7,7 @@
 
 ### Description
 
-The [Car wash] (https://www.lego.com/en-ca/product/car-wash-60362)
+The [Car Wash] (https://www.lego.com/en-ca/product/car-wash-60362)
 LEGO® set includes a car and the car
 wash building with brushes that turn once a car
 is pushed through.
