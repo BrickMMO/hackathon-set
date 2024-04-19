@@ -7,7 +7,7 @@
 
 ### Description
 
-Whenever a crime is in the city and alerted,
+Whenever a crime is committed in the city and alerted,
 the [Police Crime Truck](https://www.lego.com/en-ca/product/police-mobile-crime-lab-truck-60418) will receive the
 location and navigate there.
 
@@ -37,7 +37,7 @@ EV3 hub to connect a motor and LED lights.
 
 #### Variables/Settings
 
-Status: Can be set to "on" or "off". When there a
+Status: Can be set to "on" or "off". When there is an
 alert in the city. 
 
 ## Pseudocode
