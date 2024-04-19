@@ -18,7 +18,7 @@ The Ice-Cream Truck will require 4 outputs on an EV3 brain.
 
 ## Pseudocode
 
-1) Psuedo code for music:
+1) Pseudo code for music:
 ```pseudocode
 IF camera detects human THEN{
     Play music
