@@ -6,15 +6,15 @@
 
 ### Description
 
-The official [12 Girmmauld Place](https://www.lego.com/en-ca/product/12-grimmauld-place-76408) LEGO® set has a built in intaractive feature. When the back of the bulding is push torwards the front, the two front buildings slide open up to reveal a third.
+The official [12 Girmmauld Place](https://www.lego.com/en-ca/product/12-grimmauld-place-76408) LEGO® set has a built in interactive feature. When the back of the building is pushed towards the front, the two front buildings slide open to reveal a third.
 
 ![12 Grimmauld Place](images/lego-grimmauld-interactive.png)
 
-> <smalll>LEGO (n.d.). LEGO 12 Grimmauld Place. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/12-grimmauld-place-7640](https://www.lego.com/en-ca/product/12-grimmauld-place-7640)</small>
+> <small>LEGO (n.d.). LEGO 12 Grimmauld Place. Retrieved August 7, 2023, from [https://www.lego.com/en-ca/product/12-grimmauld-place-7640](https://www.lego.com/en-ca/product/12-grimmauld-place-7640)</small>
 
 This motion will be connected to a motor so the interaction can be automated.
 
-This interaction will have an interesting effect on the GPS and mapping tools. UNlike most buildings, this building only exists at certain times. OR the building could be in hiding until the mapping system receives a request for this address.
+This interaction will have an interesting effect on the GPS and mapping tools. Unlike most buildings, this building only exists at certain times. OR the building could be in hiding until the mapping system receives a request for this address.
 
 ### Requirements
 
@@ -38,14 +38,14 @@ REPEAT-EVERY 30 Seconds
     ELSE
 
         LocationStatus = FALSE
-        RotatMotor to 360
+        RotateMotor to 360
 
     ENDIF
 
 ENDREPEAT
 ```
 
-In this example, the building is only avialable between 11:00 am and 1:00 pm. A GPS request will return false when the building is not available:
+In this example, the building is only available between 11:00 am and 1:00 pm. A GPS request will return false when the building is not available:
 
 ```pseudocode
 REPEAT-EVERY 1 Hour
@@ -58,13 +58,13 @@ REPEAT-EVERY 1 Hour
     ELSE
 
         LocationStatus = FALSE
-        RotatMotor to 360
+        RotateMotor to 360
 
     ENDIF
 
 ENDREPEAT
 
-ON RequestGsLocation EVENT
+ON RequestGpsLocation EVENT
 
     IF LocationStatus == TRUE THEN
 
