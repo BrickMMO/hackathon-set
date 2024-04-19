@@ -7,14 +7,14 @@
 
 ### Description
 
-The [Christmas tree] (https://www.lego.com/en-nl/product/christmas-tree-40573)
+The [Christmas Tree] (https://www.lego.com/en-nl/product/christmas-tree-40573)
 The lighting of the Christmas tree will work according to color brightness. To make it work, we are going to use a color sensor.
 Input will be color brightness to the sensor.
 Output led bulb will light.
 
 ### Requirements
 
-Christmas tree will require two output port on an EV3 brain.
+Christmas tree will require two output ports on an EV3 brain.
 
 #### Sensors
 
@@ -26,7 +26,7 @@ Status: Can be set to "on" or "off". When on {"status": "off"} 25% Dark automati
 
 #### Port JSON
 
-Christmas trees turn on light by a sensor
+Christmas tree turns on light by a sensor
 
 ## Pseudocode
 
