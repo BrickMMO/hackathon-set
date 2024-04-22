@@ -57,6 +57,7 @@ Each year we convert past hackathon PDFs to Markdown in the hopes that they will
 - [Police Crime Truck](https://github.com/joeyin/forked-hackathon-set/blob/main/police-crime-truck.markdown)
 - [Stadium](https://github.com/joeyin/forked-hackathon-set/blob/main/stadium.markdown)
 - [T. rex Skull](https://github.com/joeyin/forked-hackathon-set/blob/main/t-rex-skull.markdown)
+- [vespa](https://github.com/BrickMMO/hackathon-set/blob/main/vespa.markdown) 
 - [Weasley’s Hat](https://github.com/joeyin/forked-hackathon-set/blob/main/weasleys-hat.markdown)
 
 ## Steps
